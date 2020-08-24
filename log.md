@@ -10,3 +10,12 @@
 #### Instagram Meme Bot
 - [GitHub](https://github.com/piyushsuthar/instagram-meme-bot)
 - [Instagram Page](https://www.instagram.com/latestdevmemes/)
+
+### Day 1: August 24, 2020
+
+**Today's Progress**: Learned about Web Components and worked on unofficial medium widget.
+
+**Thoughts:** Medium's API is 💩.
+
+**Links to Work:**
+- [Unofficial Medium Widget](https://github.com/PiyushSuthar/medium-widget)
