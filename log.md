@@ -19,3 +19,10 @@
 
 **Links to Work:**
 - [Unofficial Medium Widget](https://github.com/PiyushSuthar/medium-widget)
+
+### Day 2: August 25, 2020
+
+**Today's Progress**: Did some debugging and solved an issue in react-360 and Recreated my GitHub Profile Readme.
+
+**Links to Work:**
+- [Link to the issue](https://github.com/facebook/react-360/issues/828)
