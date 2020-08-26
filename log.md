@@ -26,3 +26,10 @@
 
 **Links to Work:**
 - [Link to the issue](https://github.com/facebook/react-360/issues/828)
+
+### Day 3: August 26, 2020
+
+**Today's Progress**: Did some CSS stuff. Tried making an Emoji with pure css.
+
+**Links to Work:**
+- [Pure Css Emoji Codepen](https://codepen.io/piyushsuthar/pen/wvGJOQq)
