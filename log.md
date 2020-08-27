@@ -33,3 +33,7 @@
 
 **Links to Work:**
 - [Pure Css Emoji Codepen](https://codepen.io/piyushsuthar/pen/wvGJOQq)
+
+### Day 4: August 27, 2020
+
+**Today's Progress**: Started working on my first full stack app clone of Product Hunt.
