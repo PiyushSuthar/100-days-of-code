@@ -37,3 +37,26 @@
 ### Day 4: August 27, 2020
 
 **Today's Progress**: Started working on my first full stack app clone of Product Hunt.
+
+### Day 5: August 28, 2020
+
+**Today's Progress**: Continued with MERN Stack bootcamp. Didn't write much code in producthunt clone.
+
+### Day 6: August 29, 2020
+
+**Today's Progress**: Continued with the MERN Stack bootcamp by Hitesh Choudhary. Created user model for ProductHunt Clone.
+
+**Thoughts**: I should've made a mind map before starting. Will do it tommorow.
+
+**Links to Work:**
+- [ProductHunt Clone](https://github.com/PiyushSuthar/producthunt-clone)
+
+### Day 7: August 30, 2020
+
+**Today's Progress**: It was an awesome day! Created Authentication routes and Product model for ProductHunt Clone. Fixed some bugs, and created some more to fix tomorrow.
+
+**Thoughts**: It isn't as easy as I thought to create a mindmap.
+
+**Links to Work:**
+- [ProductHunt Clone](https://github.com/PiyushSuthar/producthunt-clone)
+
