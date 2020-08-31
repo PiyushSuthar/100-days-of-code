@@ -60,3 +60,6 @@
 **Links to Work:**
 - [ProductHunt Clone](https://github.com/PiyushSuthar/producthunt-clone)
 
+### Day 8: August 31, 2020
+
+**Today's Progress**: Started learning bootstrap again.
